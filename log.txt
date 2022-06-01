@@ -1,0 +1,32 @@
+[chaehyun] Tue May 17 20:53:38 2022 +0900 최종본 eafb339
+[chaehyun] Tue May 17 16:26:39 2022 +0900 1차 df0062d
+[chaehyun] Tue May 17 16:23:11 2022 +0900 Merge branch 'chaehyun' of https://github.com/emdk89/SE into chaehyun d82877e
+[chaehyun] Tue May 17 16:22:34 2022 +0900 Delete 소공1.docx a15f488
+[chaehyun] Tue May 17 16:22:28 2022 +0900 Delete 과제1보고서 수정본.docx 2cb9fa3
+[chaehyun] Tue May 17 16:22:21 2022 +0900 Delete 과제1_4분반18조.pdf 293cc2e
+[chaehyun] Tue May 17 16:22:15 2022 +0900 Delete usecasediagram.mdj f2ea5f5
+[chaehyun] Tue May 17 16:22:01 2022 +0900 Delete usecasediagram.jpg fee489a
+[chaehyun] Tue May 17 16:21:55 2022 +0900 Delete usecasedescriptions.docx fd4e4d2
+[chaehyun] Tue May 17 16:21:50 2022 +0900 Delete ui2.jpg 2fbe250
+[chaehyun] Tue May 17 16:21:43 2022 +0900 Delete ui1.jpg 43a8ee2
+[chaehyun] Tue May 17 16:21:22 2022 +0900 Delete log.txt b2d7d70
+[chaehyun] Tue May 17 16:16:38 2022 +0900 Merge branch 'chaehyun' of https://github.com/emdk89/SE into chaehyun d25f59b
+[chaehyun] Tue May 17 16:15:30 2022 +0900 Merge branch 'master' of https://github.com/emdk89/SE into chaehyun 4dd05ee
+[chaehyun] Tue May 17 16:14:14 2022 +0900 1차 62a8e0a
+[chaehyun] Tue May 17 16:12:05 2022 +0900 1차 a767652
+[chaehyun] Sun May 15 12:06:32 2022 +0900 Delete document_통합본.docx e3e3eb5
+[chaehyun] Sun May 15 11:57:09 2022 +0900 과제1 73efb82
+[chaehyun] Sun May 15 11:55:22 2022 +0900 통합본 748a4db
+[chaehyun] Sun May 15 11:36:29 2022 +0900 과제2 2bf6e95
+[chaehyun] Sun May 1 23:39:44 2022 +0900 다이어그램 6584c1a
+[chaehyun] Sun May 1 23:35:34 2022 +0900 최종본 5e3e6fa
+[chaehyun] Sun May 1 21:47:21 2022 +0900 Merge branch 'chaehyun' of https://github.com/emdk89/SE into chaehyun 9d13b53
+[chaehyun] Sun May 1 21:45:53 2022 +0900 2번째 수정 4eef57f
+[chaehyun] Sun May 1 14:50:50 2022 +0900 Add files via upload 7b76a60
+[chaehyun] Sun May 1 14:49:11 2022 +0900 첫번째 b0e5918
+[chaehyun] Sun May 1 14:34:09 2022 +0900 첫번째 996e01b
+[chaehyun] Sun May 1 09:29:52 2022 +0900 Delete 소프트웨어 공학 과제1(1,2)B989021.docx ebd5254
+[chaehyun] Sun May 1 09:29:45 2022 +0900 Delete 소공1.docx 2ea389d
+[chaehyun] Sat Apr 30 22:16:14 2022 +0900 박주언 1,2번 (1~4번 작성) d271eda
+[chaehyun] Sat Apr 30 20:44:23 2022 +0900 2번째 6733070
+[chaehyun] Sat Apr 30 16:13:33 2022 +0900 소공1 100aa40
